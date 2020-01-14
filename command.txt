@@ -1,0 +1,2 @@
+bash <(curl -s -L https://github.com/EOFFULL/V2ray_server_build_script_backup/blob/master/install.sh)
+
